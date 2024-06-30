@@ -1,2 +1,2 @@
 # MySQL_course
-MY SQL initial course
+My SQL initial course
